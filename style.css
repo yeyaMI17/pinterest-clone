@@ -142,7 +142,10 @@ height:48px;
     font: size 30px;
     border-radius:50px;
     color:black;
-    font-weight:;
+    font-weight: bold;
+    padding: 4px;
+    visibility: hidden;
+    display: none;
     
 }
 .oculto2{
