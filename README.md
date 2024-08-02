@@ -18,4 +18,4 @@ Podrás encontrarlo aquí [ClonPinterest](https://pinterest-clone-ten-kappa.verc
 
 ### <font color="pink"> Captura del proyecto </font> 
 
-![Captura del Proyecto](/imagenes/Clon.JPG)
+![Captura del Proyecto](/imagenes/CLON.JPG)
