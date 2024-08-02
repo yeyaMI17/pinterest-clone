@@ -1,5 +1,5 @@
 # <font color= #B22222> **CLON DE PINTEREST DE MARIA ITZEL CHAVEZ HERRERA** </font>
-## <font color= #FA8072> Proyecto creativo realizado con Bootstrap 5 </font>
+## <font color= #FA8072> Proyecto creativo realizado con CSS </font>
 
 Proyecto creado durante el bootcamp de Tecnolochicas PRO.
 
